@@ -12,5 +12,3 @@ const add = (a,b, callback) => {
 add(1,4, (sum) => {
     console.log(sum)
 })
-
-
